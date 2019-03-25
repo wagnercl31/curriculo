@@ -1,0 +1,46 @@
+body{
+    color: #414751;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+a{
+    color: #414751;
+}
+
+.main{
+    margin-right:auto;
+    margin-left:auto;
+    width: 617px;
+}
+
+.nome{
+    font-weight: normal;
+    font-size: 20pt;
+}
+
+.descricao_contato{
+    font-size: 10pt;
+    margin: 0;
+
+}
+
+img{
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+
+.descricao_contato2{
+    font-size: 10pt;
+    margin: 0;
+}
+
+ul{
+    font-size: 10pt;
+    margin: 0;
+}
+
+.projeto{
+    font-size: 10pt;
+    margin: 0;
+}
